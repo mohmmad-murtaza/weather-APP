@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mohmmad-murtaza/weather-APP.git/static/css/main.a1a94f6b.css",
+    "main.js": "/mohmmad-murtaza/weather-APP.git/static/js/main.5b18dba8.js",
+    "static/media/humidity.png": "/mohmmad-murtaza/weather-APP.git/static/media/humidity.beca2aa45db1f7c79177.png",
+    "static/media/conditon.png": "/mohmmad-murtaza/weather-APP.git/static/media/conditon.35d0fcc7824b6c1c89c6.png",
+    "static/media/temprature.png": "/mohmmad-murtaza/weather-APP.git/static/media/temprature.7dca9b54b9d45c7cc514.png",
+    "index.html": "/mohmmad-murtaza/weather-APP.git/index.html",
+    "main.a1a94f6b.css.map": "/mohmmad-murtaza/weather-APP.git/static/css/main.a1a94f6b.css.map",
+    "main.5b18dba8.js.map": "/mohmmad-murtaza/weather-APP.git/static/js/main.5b18dba8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a94f6b.css",
+    "static/js/main.5b18dba8.js"
+  ]
+}
