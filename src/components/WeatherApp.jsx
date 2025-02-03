@@ -68,12 +68,12 @@ const WeatherApp = () => {
             <p> Temperature: {weather.main.temp}°C </p>
           </div>
           <div className="img-wrap" >
-            <img src={condition} alt="Condition" className="img" />
+          <img src={humidity} alt="Humidity" className="img" />
             <p>Humidity: {weather.main.humidity}% </p>
           </div>
           <div className="img-wrap">
-            <img src={humidity} alt="Humidity" className="img" />
-            <p> Temperature: {weather.main.temp}°C</p>
+            <img src={condition} alt="Condition" className="img" />
+            <p> Condition: {weather.weather[0].description}% </p>
           </div>
         </div>
       )}
