@@ -73,7 +73,7 @@ const WeatherApp = () => {
           </div>
           <div className="img-wrap">
             <img src={condition} alt="Condition" className="img" />
-            <p> Condition: {weather.weather[0].description}% </p>
+            <p> Condition: {weather.weather[0].description} </p>
           </div>
         </div>
       )}
