@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  },
-  "homepage":"https://weather-a28msajbz-zainabs-projects-6845de03.vercel.app"
+  },"homepage": "https://mohmmad-murtaza.github.io/weather-APP"
+
 }
